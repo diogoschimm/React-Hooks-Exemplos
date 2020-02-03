@@ -1,0 +1,12 @@
+.repositorios {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin: 20px auto;
+}
+
+.repositorios .repo {
+    border: 1px solid darkgrey;
+    padding: 10px;
+    margin-bottom: 10px;
+}
